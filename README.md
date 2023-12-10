@@ -23,4 +23,4 @@ The violations are stored in the format:
 
 ## Figures
 
-All figures (including bonus figures) can be found in the `Figures` folder.
+All figures (including bonus figures) can be found in the `Histograms` and `LogFits` folders.
